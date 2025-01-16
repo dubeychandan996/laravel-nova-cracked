@@ -2,9 +2,9 @@
 
 # laravel-nova-cracked
 
-Folder should be under root dir
-->app
-->bootstrap
-->nova  (root dir)
-->public
+>Folder should be under root dir
+>->app
+>->bootstrap
+>->nova  (root dir)
+>->public
 
